@@ -30,7 +30,7 @@ eğlence: "Oyun oynamak, yeni teknolojiler keşfetmek"
 ## 🌐 Beni Bulabileceğin Yerler
 
 <a href="https://instagram.com/ciddimisincarrot" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
-<a href="https://linkedin.com/in/carrotistekanka" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/akdenizkaya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="https://reddit.com/user/carrotistekanka" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"/></a>&nbsp;
 <a href="https://stackoverflow.com/users/26866993" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>&nbsp;
 <a href="https://twitch.tv/carrotistekanka" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch"/></a>&nbsp;
