@@ -127,36 +127,6 @@ eğlence: "Oyun oynamak, yeni teknolojiler keşfetmek"
 
 <div align="center">
 
-## 🏆 GitHub Ödülleri
-
-<img src="https://github-profile-trophy.vercel.app/?username=AkdenizDev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" width="95%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## ✍️ Rastgele Geliştirici Sözü
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🔝 En Çok Katkıda Bulunulan Repolar
-
-<img src="https://github-contributor-stats.vercel.app/api?username=AkdenizDev&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Repos" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 ## 💖 Beni Destekle
 
 Projelerimi beğendiysen, bir kahve ısmarlayabilirsin! ☕
