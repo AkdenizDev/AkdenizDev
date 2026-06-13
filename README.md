@@ -21,7 +21,7 @@ hedef: "Kod yazarak hayatları kolaylaştırmak"
 eğlence: "Oyun oynamak, yeni teknolojiler keşfetmek"
 ```
 
-<br>
+<br><br><br>
 
 <div align="center">
 
