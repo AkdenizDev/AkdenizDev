@@ -82,10 +82,6 @@ eğlence: "Oyun oynamak, yeni teknolojiler keşfetmek"
 <br><b>Discord.js</b>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" />
-<br><b>AWS</b>
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
 <br><b>Git</b>
 </td>
