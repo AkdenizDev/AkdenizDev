@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Merhaba!%20Ben%20Carrot%20🥕&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Discord%20Bot%20Geliştirici&descSize=18&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,45:6d28d9,100:c026d3&height=220&section=header&text=Merhaba!%20Ben%20Carrot%20🥕&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Discord%20Bot%20Geliştirici&descSize=18&descAlignY=55" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6E31&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%92%BB+Kod+yazarak+d%C3%BCnyay%C4%B1+ke%C5%9Ffediyorum;%F0%9F%8E%AE+Oyun+%2B+Kod+%3D+M%C3%BCkemmel+Combo;%F0%9F%9A%80+Her+g%C3%BCn+yeni+bir+%C5%9Fey+%C3%B6%C4%9Freniyorum" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B57BFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%92%BB+Kod+yazarak+d%C3%BCnyay%C4%B1+ke%C5%9Ffediyorum;%F0%9F%8E%AE+Oyun+%2B+Kod+%3D+M%C3%BCkemmel+Combo;%F0%9F%9A%80+Her+g%C3%BCn+yeni+bir+%C5%9Fey+%C3%B6%C4%9Freniyorum" alt="Typing SVG" /></a>
 
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Hakkımda
 <br>
-<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:6d28d9&height=3&width=100%25" width="100%" />
 
 ```yaml
 ad: Carrot
@@ -19,41 +19,38 @@ uzmanlık:
   - Discord Bot Geliştirme
   - UI/UX Tasarım
 deneyim: 3+ yıl
-hedef: "Kod yazarak hayatları kolaylaştırmak"
-eğlence: "Oyun oynamak, yeni teknolojiler keşfetmek"
+şu an: yeni bir şeyler denemekle meşgul
+motto: "Çalışmıyorsa, henüz yeterince debug etmemişsindir"
 ```
 
 <br>
 
 <div align="center">
 
-## 🌐 Beni Bulabileceğin Yerler
+## Şuralarda Bi Yerlerdeyim İşte
 
-<a href="https://instagram.com/ciddimisincarrot" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/akdenizkaya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://reddit.com/user/carrotistekanka" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"/></a>&nbsp;
-<a href="https://stackoverflow.com/users/26866993" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>&nbsp;
-<a href="https://twitch.tv/carrotistekanka" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch"/></a>&nbsp;
-<a href="https://x.com/CarrotDevelop" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>&nbsp;
-<a href="https://youtube.com/@UCO81iVGGvEeH4JwHpFgXZCw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
+<a href="https://instagram.com/ciddimisincarrot" target="_blank"><img src="https://img.shields.io/badge/Instagram-9333EA?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/akdenizkaya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://reddit.com/user/carrotistekanka" target="_blank"><img src="https://img.shields.io/badge/Reddit-8B5CF6?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"/></a>&nbsp;
+<a href="https://stackoverflow.com/users/26866993" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-A855F7?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>&nbsp;
+<a href="https://twitch.tv/carrotistekanka" target="_blank"><img src="https://img.shields.io/badge/Twitch-6D28D9?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch"/></a>&nbsp;
+<a href="https://x.com/CarrotDevelop" target="_blank"><img src="https://img.shields.io/badge/X-C026D3?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>&nbsp;
+<a href="https://youtube.com/@UCO81iVGGvEeH4JwHpFgXZCw" target="_blank"><img src="https://img.shields.io/badge/YouTube-D946EF?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
 
 </div>
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6d28d9,100:1a0b2e&height=3&width=100%25" width="100%" />
+
 <div align="center">
 
-## 🛠️ Teknoloji & Araçlar
-
+## Kullandığım Babalar
 <table>
 <tr>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
 <br><b>JavaScript</b>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-<br><b>TypeScript</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
@@ -89,10 +86,6 @@ eğlence: "Oyun oynamak, yeni teknolojiler keşfetmek"
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
 <br><b>GitHub</b>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" />
-<br><b>VS Code</b>
-</td>
 </tr>
 </table>
 
@@ -100,35 +93,37 @@ eğlence: "Oyun oynamak, yeni teknolojiler keşfetmek"
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:6d28d9&height=3&width=100%25" width="100%" />
+
 <div align="center">
 
-## 📊 GitHub İstatistiklerim
-
 <a href="https://github.com/AkdenizDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkdenizDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E31&icon_color=FF6E31&text_color=C9D1D9&ring_color=FF6E31" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkdenizDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E31&text_color=C9D1D9" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkdenizDev&show_icons=true&hide_border=true&bg_color=140a26&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&ring_color=8B5CF6" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkdenizDev&layout=compact&hide_border=true&bg_color=140a26&title_color=C084FC&text_color=E9D5FF" alt="Top Languages"/>
 </a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkdenizDev&theme=radical&hide_border=true&background=0D1117&stroke=FF6E31&ring=FF6E31&fire=FF6E31&currStreakLabel=FF6E31" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkdenizDev&hide_border=true&background=140a26&stroke=8B5CF6&ring=A855F7&fire=C026D3&currStreakLabel=C084FC&sideLabels=E9D5FF&sideNums=E9D5FF&dates=9D8CB8" alt="GitHub Streak" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkdenizDev&bg_color=0D1117&color=FF6E31&line=FF6E31&point=FFFFFF&area_color=FF6E31&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkdenizDev&bg_color=140a26&color=C084FC&line=A855F7&point=ffffff&area_color=7C3AED&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
 
 </div>
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6d28d9,100:1a0b2e&height=3&width=100%25" width="100%" />
+
 <div align="center">
 
-## 💖 Beni Destekle
+## 💜 Beni destekle
 
-Projelerimi beğendiysen, bir kahve ısmarlayabilirsin! ☕
+Yaptığım işleri beğendiysen bir kahve ısmarlayabilirsin, ne olur ne olmaz ☕
 
-<a href="https://buymeacoffee.com/scurott"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>&nbsp;
-<a href="https://patreon.com/ScurottBOT"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/></a>
+<a href="https://buymeacoffee.com/scurott"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-9333EA?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee"/></a>&nbsp;
+<a href="https://patreon.com/ScurottBOT"><img src="https://img.shields.io/badge/Patreon-6D28D9?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/></a>
 
 </div>
 
@@ -148,8 +143,8 @@ Projelerimi beğendiysen, bir kahve ısmarlayabilirsin! ☕
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=AkdenizDev&label=Profil%20Ziyaretçisi&color=FF6E31&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=AkdenizDev&label=Profil%20Ziyaretçisi&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,45:6d28d9,100:c026d3&height=120&section=footer" width="100%" />
