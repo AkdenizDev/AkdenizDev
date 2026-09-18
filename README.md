@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=100428,2e1065,7c3aed,c084fc&height=220&section=header&text=Selam,%20ben%20Carrot%20🥕✨&fontSize=40&fontAlignY=36&animation=twinkling&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=100428,2e1065,7c3aed,c084fc&height=220&section=header&text=Selam,%20ben%20Carrot%20🥕&fontSize=40&fontAlignY=36&animation=twinkling&fontColor=ffffff" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%3E_++npm+run+create-magic+%E2%9C%A8;%F0%9F%A4%96+Discord+botlar%C4%B1na+f%C4%B1s%C4%B1ldayan+adam.;%E2%98%95+Kahve+bitti%C4%9Finde+kod+durur+(%C5%9Faka%2C+durmaz).;%F0%9F%9B%A0%EF%9F%8F+Full-Stack+%2B+Backend+%2B+Temiz+kod." alt="Typing SVG" />
