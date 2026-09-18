@@ -1,85 +1,75 @@
-<div align="center">
+<h1 data-importer="text" align="center">helloWorld("print")</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=120422,2e1065,7c3aed,c084fc&height=220&section=header&text=Selam,%20ben%20Carrot%20🥕&fontSize=42&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%E2%80%A2%20Discord%20Bot%20Builder&descSize=18&descAlignY=58" width="100%" />
+###
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C084FC&center=true&vCenter=true&width=550&lines=console.log(%22Selamlar!%22);Discord+botlar%C4%B1+ve+web+projeleri+geli%C5%9Ftiriyorum;Node.js+%E2%80%A2+JavaScript+%E2%80%A2+Lua;PostgreSQL+%26+MongoDB+ile+veritaban%C4%B1+sistemleri;Temiz+kod%2C+gece+mesaisi+ve+kahve" alt="Typing SVG" />
-</a>
-
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://cdn.discordapp.com/attachments/1545199162281164860/1550546358090334358/c5e4b54952c6857bf00a02929abffe51.gif?ex=6aaeba53&is=6aad68d3&hm=9646a1449d84f2c8ac819ddcdb167568ef9d2618d91b58453c4007e6aeb2bc95&"  />
 </div>
 
-<br>
+###
 
-### 💜 Hakkımda
-
-- 🥕 **Carrot** olarak geliştiriyorum; backend mimarileri, Discord botları ve pratik web çözümleri üretiyorum.
-- ⚡ **Stack:** Ağırlıklı olarak **Node.js** ve **JavaScript** kullanıyor, script/otomasyon işlerinde **Lua** yazıyorum.
-- 🗄️ **Veritabanı:** Projesine göre **PostgreSQL** ve **MongoDB** üzerinde çalışıyorum.
-- 🚀 **Ortam:** Fikirleri hızlıca ayağa kaldırıp prototiplemek için **Replit** elimin altında.
-- 🎯 Kodun şişirilmemiş, stabil ve gerçekten işe yarar olması birinci önceliğim.
-
-<br>
-
-<div align="center">
-
-### 🔮 Kullandığım Teknolojiler & Araçlar
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,lua,postgres,mongodb,replit,discord,git,github,vscode&theme=dark&perline=6" />
-</a>
-
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="60" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
 </div>
 
-<br>
+###
 
-<div align="center">
-
-### 🌐 Sosyal Ağlar
-
-<a href="https://instagram.com/ciddimisincarrot" target="_blank"><img src="https://img.shields.io/badge/Instagram-1a092a?style=for-the-badge&logo=Instagram&logoColor=E4405F" alt="Instagram"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/akdenizkaya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1a092a?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/></a>&nbsp;
-<a href="https://reddit.com/user/carrotistekanka" target="_blank"><img src="https://img.shields.io/badge/Reddit-1a092a?style=for-the-badge&logo=Reddit&logoColor=FF4500" alt="Reddit"/></a>&nbsp;
-<a href="https://stackoverflow.com/users/26866993" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-1a092a?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16" alt="Stack Overflow"/></a>&nbsp;
-<a href="https://twitch.tv/carrotistekanka" target="_blank"><img src="https://img.shields.io/badge/Twitch-1a092a?style=for-the-badge&logo=Twitch&logoColor=9146FF" alt="Twitch"/></a>&nbsp;
-<a href="https://x.com/CarrotDevelop" target="_blank"><img src="https://img.shields.io/badge/X-1a092a?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>&nbsp;
-<a href="https://youtube.com/@UCO81iVGGvEeH4JwHpFgXZCw" target="_blank"><img src="https://img.shields.io/badge/YouTube-1a092a?style=for-the-badge&logo=YouTube&logoColor=FF0000" alt="YouTube"/></a>
-
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="60" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/filezilla/BF0000" height="60" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="60" alt="firebase logo"  />
 </div>
 
-<br>
+###
 
-<div align="center">
-
-### 📊 GitHub İstatistikleri
-
-<a href="https://github.com/AkdenizDev">
-  <img height="160" src="https://github-stats-extended.vercel.app/api?username=AkdenizDev&show_icons=true&hide_border=true&bg_color=0d0718&title_color=c084fc&icon_color=a855f7&text_color=cbd5e1&ring_color=a855f7" alt="GitHub Stats"/>
-  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AkdenizDev&layout=compact&hide_border=true&bg_color=0d0718&title_color=c084fc&text_color=cbd5e1" alt="Top Languages"/>
-</a>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=AkdenizDev&hide_border=true&background=0d0718&stroke=a855f7&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&currStreakNum=ffffff&sideNums=ffffff&sideLabels=cbd5e1" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkdenizDev&bg_color=0d0718&color=c084fc&line=a855f7&point=ffffff&area_color=581c87&area=true&hide_border=true" alt="Activity Graph" width="96%"/>
-
+<div data-importer="socials" align="center">
+  <a href="https://discordapp.com/channels/@me/775709530649919498/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/akdenizkaya/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/CarrotDevelop" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
 </div>
 
-<br>
+###
 
-<div align="center">
-
-### ☕ Destek Olmak İstersen
-
-<a href="https://buymeacoffee.com/scurott"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-1a092a?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFDD00" alt="Buy Me a Coffee"/></a>&nbsp;
-<a href="https://patreon.com/ScurottBOT"><img src="https://img.shields.io/badge/Patreon-1a092a?style=for-the-badge&logo=patreon&logoColor=F96854" alt="Patreon"/></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=AkdenizDev&label=Profil%20Ziyareti%20✨&color=8b5cf6&style=for-the-badge" alt="Profile Views" />
-
+<div data-importer="activities" align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=120422,2e1065,7c3aed,c084fc&height=110&section=footer" width="100%" />
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
+###
