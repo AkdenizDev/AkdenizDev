@@ -13,13 +13,6 @@
 ```bash
 carrot@dev:~$ neofetch
 ```
-
-- 💻 Genellikle **Node.js**, **JavaScript** ve **Lua** üzerinde çalışıyorum.
-- 🗄️ Veritabanı olarak projeye göre **PostgreSQL** veya **MongoDB** tercih ediyorum.
-- 🤖 Discord API'si, bot mimarileri ve pratik web uygulamaları geliştirmek favori işim.
-- ⚡ Hızlı testler ve anlık fikirler için **Replit** elimin altında.
-- 🎯 Amacım: Temiz çalışan, şişirilmemiş ve gerçekten işe yarayan projeler çıkarmak.
-
 <br>
 
 <div align="center">
