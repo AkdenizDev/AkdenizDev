@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=120422,2e1065,7c3aed,c084fc&height=220&section=header&text=Selam,%20ben%20Carrot%20🥕&fontSize=42&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%E2%80%A2%20Discord%20Bot%20Builder&descSize=18&descAlignY=58" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C084FC&center=true&vCenter=true&width=550&lines=console.log(%22Selamlar!%22);Discord+botlar%C4%B1+ve+web+projeleri+geli%C5%9Ftiriyorum;Node.js+%E2%80%A2+JavaScript+%E2%80%A2+Lua;PostgreSQL+%26+MongoDB+ile+veritaban%C4%B1+sistemleri;Temiz+kod%2C+gece+mesaisi+ve+kahve" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=C084FC&center=true&vCenter=true&width=700&height=50&lines=console.log(%22Selamlar!%22);Discord+botlar%C4%B1+ve+web+projeleri+geli%C5%9Ftiriyorum;Node.js+%E2%80%A2+JavaScript+%E2%80%A2+Lua;PostgreSQL+%26+MongoDB+ile+veritaban%C4%B1+sistemleri;Temiz+kod%2C+gece+mesaisi+ve+kahve" alt="Typing SVG" />
 </a>
 
 </div>
@@ -13,6 +13,7 @@
 ### 💜 Hakkımda
 
 - Sosyal medyada **Carrot** olarak bilinirim. 2020 - 2021 yıllarından beri website geliştirme ve discord.js kullanarak discord botları yapıyorum.
+
 <br>
 
 <div align="center">
