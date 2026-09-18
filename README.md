@@ -100,3 +100,9 @@ carrot@workspace:~$ neofetch --purple
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=150826,2e1065,581c87,9333ea,c084fc&height=110&section=footer" width="100%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkdenizDev/AkdenizDev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkdenizDev/AkdenizDev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AkdenizDev/AkdenizDev/output/github-snake-dark.svg" width="100%" />
+</picture>
